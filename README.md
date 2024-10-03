@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Deshitha Isiru</h1>
 <h3 align="center">I'm undergraduate Software engineer student at sliit</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deshithaisiru&label=Profile%20views&color=0e75b6&style=flat" alt="deshithaisiru" /> </p>
-
 ---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deshithaisiru&label=Profile%20views&color=0e75b6&style=flat" alt="deshithaisiru" /> </p>
 
 - 🌱 I’m currently learning **MERN**
 
