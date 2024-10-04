@@ -1,4 +1,11 @@
 <h1 align="center">Hi 👋, I'm Deshitha Isiru</h1>
+
+---
+
+<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineer+Student;Undergraduate+Student+at+SLIIT;A+passionate+software+developer;UIUX+Designer;Always+learning+new+things" alt="Typing SVG"></a>
+</p>
+
+---
 <h3 align="center">I'm undergraduate Software engineer student at SLIIT</h3>
 
 ---
