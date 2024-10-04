@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deshitha Isiru</h1>
-<h3 align="center">I'm undergraduate Software engineer student at sliit</h3>
+<h3 align="center">I'm undergraduate Software engineer student at SLIIT</h3>
 
 ---
 
