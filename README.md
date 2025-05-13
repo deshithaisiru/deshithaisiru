@@ -4,7 +4,7 @@
 
 ---
 
-<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineer+Student;Undergraduate+Student+at+SLIIT;A+passionate+software+developer;UIUX+Designer;Always+learning+new+things" alt="Typing SVG"></a>
+<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineer+Student;IT+Student;Undergraduate+Student+at+SLIIT;A+passionate+software+developer;UIUX+Designer;Always+learning+new+things" alt="Typing SVG"></a>
 </p>
 
 ---
