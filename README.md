@@ -78,3 +78,30 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deshithaisiru&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshithaisiru&layout=compact&theme=tokyonight" width="48%">
+</p>
+
+---
+
+### ⚡ GitHub Streak & Contributions
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deshithaisiru&theme=radical&hide_border=false" />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deshithaisiru&theme=radical" />
+</p>
+
+---
+<p align="left" >
+      <img
+          src="https://github-profile-trophy.vercel.app/?username=deshithaisiru"
+          alt="deshithaisiru"
+      />
+    </p>
+
+
