@@ -1,6 +1,6 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p> 
 
-<h1 align="center">👋I'm Deshitha  Isiru </h1>
+<h1 align="center">👋I'm Deshitha Isiru </h1>
 
 ---
 
@@ -8,7 +8,7 @@
 </p>
 
 ---
-<h3 align="center">I'm undergraduate Software engineer student at SLIIT</h3>
+<h3 align="center">I'm undergraduate Software engineer student at SLIIT </h3>
 
 ---
 
